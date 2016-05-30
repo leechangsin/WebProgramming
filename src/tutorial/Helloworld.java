@@ -6,6 +6,8 @@ public class Helloworld {
 		// TODO Auto-generated method stub
 		
 		System.out.println("깃허브 튜토리얼 시작!");
+		
+		System.out.println("hotfix 브랜치 생성 후 이동하여 작업 중...");
 
 	}
 
