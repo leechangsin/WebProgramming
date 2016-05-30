@@ -8,6 +8,8 @@ public class Helloworld {
 		System.out.println("깃허브 튜토리얼 시작!");
 		
 		System.out.println("hotfix 브랜치 생성 후 이동하여 작업 중...");
+		
+		System.out.println("hotfix 브랜치와 master브랜치를 합병함...");
 
 	}
 
