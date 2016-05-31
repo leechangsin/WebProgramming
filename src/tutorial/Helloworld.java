@@ -1,7 +1,7 @@
 package tutorial;
 
 //For command line git tutorial
-//Local repository modification
+//GitHub modification and Local repository modification
 public class Helloworld {
 
 	public static void main(String[] args) {
