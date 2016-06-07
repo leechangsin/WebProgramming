@@ -1,3 +1,3 @@
-git_tutorial의 원격저장소
-git add README.md
-git commit -m "remote repository add a README.md"
+hotfix브랜치에도 README.md파일을 생성 후 원격저장소에 업로드해봄
+
+소스트리 시험중...
